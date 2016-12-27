@@ -1,6 +1,4 @@
-# star-angular2
-
-## 资料
+# 资料
 - [官网](https://angular.cn/)
     + [特性与优点](https://angular.cn/features.html)
     + [官方文档](https://angular.cn/docs/ts/latest/)
@@ -13,4 +11,4 @@
         * [高级文档](https://angular.cn/docs/ts/latest/guide/ngmodule.html)
         * [烹饪宝典](https://angular.cn/docs/ts/latest/cookbook/)
 
-## 笔记
+# 笔记
